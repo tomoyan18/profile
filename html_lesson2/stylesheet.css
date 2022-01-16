@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+}
+
+.header-logo {
+    font-size: 50px;
+}
+
+.header-list {
+    float: right;
+    font-size: 30px;
+}
+
+.main h1 {
+     padding-top: 5%;
+}
+
+textarea{
+    width:auto;
+    height:auto;
+}
+
+
